@@ -1,0 +1,23 @@
+:root {
+
+  //Grosseur des textes
+  --fz-normal: 1rem; //16 px
+
+  //Grosseur des titres
+  --fz-h1: 2.5rem; //40 px
+  --fz-h2: 2rem; //32 px
+  --fz-h3: 1.75rem; //28 px
+  --fz-h4: 1.5rem; //24 px
+
+  //Hauteur de ligne
+  --lh-extra-thin: 1;
+  --lh-thin: 1.2;
+  --lh-normal: 1.5;
+  --lh-medium: 1.8;
+  --lh-large: 2;
+  --lh-extra-large: 2.4;
+
+  //Font family
+  --ff-normal: 'Montserrat', sans-serif;
+  --ff-title: 'Sarabun', sans-serif;
+}
