@@ -100,12 +100,12 @@ const serveur = function () {
 
     var navigateur = "Firefox";
     // Si la plateform est un OSX
-    /*if(os.platform() == "darwin"){
+    if(os.platform() == "darwin"){
         navigateur = ["firefox", "google chrome"];
     }
-    else {*/
-        navigateur = /*[*/"firefox"/*, "chrome"];*/
-    /*}*/
+    else {
+        navigateur = ["firefox", "chrome"];
+    }
 
 
     //Lancement du serveur
